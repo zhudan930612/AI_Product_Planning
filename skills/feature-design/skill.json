@@ -1,0 +1,13 @@
+{
+  "name": "feature-design",
+  "version": "2.0.0",
+  "description": "基于产品上下文和功能设计模板,输出完整的功能设计方案",
+  "triggers": [
+    "设计.*功能",
+    "功能设计",
+    "我要做.*功能",
+    "优化.*功能",
+    "/design"
+  ],
+  "user_invocable": true
+}

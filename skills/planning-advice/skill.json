@@ -1,0 +1,13 @@
+{
+  "name": "planning-advice",
+  "version": "1.0.0",
+  "description": "基于产品规划和产品上下文,提供功能优先级建议",
+  "triggers": [
+    "下一步.*做.*功能",
+    "应该做.*功能",
+    "优先级建议",
+    "功能规划建议",
+    "/plan-advice"
+  ],
+  "user_invocable": true
+}

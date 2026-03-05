@@ -1,0 +1,13 @@
+{
+  "name": "doc-sync",
+  "description": "文档同步技能 - 在功能文档完成后,自动同步更新产品上下文和产品规划",
+  "version": "1.0.0",
+  "triggers": [
+    "同步文档",
+    "更新产品上下文",
+    "更新产品规划",
+    "/sync"
+  ],
+  "author": "Claude",
+  "tags": ["documentation", "sync", "workflow"]
+}
